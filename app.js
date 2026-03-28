@@ -6,7 +6,7 @@
 'use strict';
 
 // ─── Constants ───────────────────────────────────────────────────────────────
-const DEFAULT_WEBHOOK = 'https://n8n.develle.fr/webhook-test/1f05a851-71d7-4dff-8c7d-721e6c94eefb';
+const DEFAULT_WEBHOOK = 'https://n8n.develle.fr/webhook-test/1861e8c0-3a7b-45f2-a664-dd8c6a30514d';
 
 // ─── DOM References ──────────────────────────────────────────────────────────
 const chatMessages = document.getElementById('chatMessages');
